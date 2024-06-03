@@ -1,6 +1,6 @@
 import random
 # -- variables
-popa = 'TOKEN'
+tok = 'TOKEN'
 tex ='''
 
 
@@ -53,5 +53,6 @@ abc = {'q': '🇶',
 
 
 # -- anims
-
+plane = [':man_wearing_turban::hospital:               :airplane:', ':man_wearing_turban::hospital:       :airplane:', ':man_wearing_turban::hospital::airplane:', ':boom::boom::boom:']
+sinagoga = [':rocket:                 :synagogue:',':rocket:       :synagogue:',':rocket::synagogue:', ':boom:']
 
